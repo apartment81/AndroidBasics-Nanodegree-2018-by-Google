@@ -6,5 +6,5 @@
 3. [Quiz App](https://github.com/apartment81/3-QuizApp)
 4. [Musical Structure App](https://github.com/apartment81/4-MusicalStructureApp)
 5. [Tour Guide App]()
-6. [News App, final]()
-7. [Inventory App, final]()
+6. [News App, final](https://github.com/apartment81/6-NewsAppFinal)
+7. [Inventory App, final](https://github.com/apartment81/7-InventoryAppFinal)
