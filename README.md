@@ -2,7 +2,7 @@
 
 ### Projects:
 1.  [Single Screen App](https://github.com/apartment81/1-SingleScreenApp)
->
+
 ![SingleScreenApp](http://www.macheteauto.com/app/single_screen_app.png)
 
 2. [Score Keeper App](https://github.com/apartment81/2-ScoreKeeperApp)
@@ -17,7 +17,7 @@
 
 ![Music](http://www.macheteauto.com/app/music_app.gif)
 
-5. [Tour Guide App]()
+5. Tour Guide App
 
 ![Vrancea guide](http://www.macheteauto.com/app/guide_app.gif)
 
