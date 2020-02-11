@@ -19,11 +19,11 @@
 
 5. Tour Guide App
 
-![Vrancea guide](http://www.macheteauto.com/app/guide_app.gif)
+![guide](http://www.macheteauto.com/app/guide1_app.gif)
 
 6. [News App, final](https://github.com/apartment81/6-NewsAppFinal)
 
-![Guardian News](http://www.macheteauto.com/app/news_app.gif)
+![Guardian](http://www.macheteauto.com/app/news1_app.gif)
 
 7. [Inventory App, final](https://github.com/apartment81/7-InventoryAppFinal)
 
